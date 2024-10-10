@@ -76,7 +76,7 @@ console.log(boundary(100));
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 function epify(string) {
-  if (string.startsWith("EPICODE")) {
+  if (string.startsWith + "EPICODE") {
     return string;
   } else {
     return "EPICODE" + string;
